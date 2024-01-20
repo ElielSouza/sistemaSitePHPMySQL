@@ -3,6 +3,6 @@
 
 $servidor = "localhost"; 
 $usuario = "root";
-$senha = "eainfo1311";
+$senha = "";
 $porta = 3306;
 $bancoDeDados = "sistemaSitePHPMySQL";
